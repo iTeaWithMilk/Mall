@@ -10,11 +10,6 @@
       <img slot="tabbar-item-imgActive" src="@/assets/images/tabbar/gouwucheActive.png" alt />
       <div slot="tabbar-item-text">购物车</div>
     </tabbaritems>
-    <tabbaritems path="/profile">
-      <img slot="tabbar-item-img" src="@/assets/images/tabbar/wode.png" alt />
-      <img slot="tabbar-item-imgActive" src="@/assets/images/tabbar/wodeActive.png" alt />
-      <div slot="tabbar-item-text">我的</div>
-    </tabbaritems>
   </tabbar>
 </template>
 
